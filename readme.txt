@@ -5,4 +5,5 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 aaaa£»
 Creating a new branch is quick AND simple.
-fast forward
+fast forward 
+debug branch
